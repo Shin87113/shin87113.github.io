@@ -11,7 +11,7 @@ The easy way to explore the [**Silkroad Online**](http://www.joymax.com/silkroad
 - Script editor (Create, Export, Import working even with bots)
 - Works on mobile devices
 
-> Are you looking for a [**DEMO**](http://JellyBitz.github.io/xSROMap)?
+> Are you looking for a [**DEMO**](https://shin87113.github.io)?
 
 ---
 ### Getting Started
