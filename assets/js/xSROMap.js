@@ -516,8 +516,8 @@ var xSROMap = function(){
 				var coord = fixCoords(x,y,z,region);
 				// create dimensions
 				var iconNPC = new L.Icon({
-					iconUrl: imgHost+'icon/map_world_icontel.png',
-					iconSize:	[6,6], // (w,h)
+					iconUrl: imgHost+'icon/map_world_icontel2.png',
+					iconSize:	[8,8], // (w,h)
 					iconAnchor:	[3,3], // (w/2,h/2)
 					popupAnchor:[0,-3] // (0,-h/2)
 				});
